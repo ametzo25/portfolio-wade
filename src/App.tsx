@@ -8,17 +8,20 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import CertificationsBar from "./components/CertificationsBar";
 
-
 export default function App() {
   return (
-    <div className="bg-gray-900 min-h-screen text-gray-100">
+    <div className="flex flex-col min-h-screen bg-gray-900 text-gray-100">
       <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/projects" element={<Projects />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
+
+      <main className="flex-grow">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </main>
+
       <Footer />
     </div>
   );
