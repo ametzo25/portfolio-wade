@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+   @apply font-sans bg-gray-950;
+}
+@layer base {
+  html {
+    font-size: 10px; /* au lieu de 16px */
+  }
+}
+

@@ -1,0 +1,80 @@
+{
+  "home": {
+    "greeting": "👋 Bonjour, je suis Mouhamed Wade",
+    "title": "Ingénieur DevOps chez Partech, passionné par les technologies cloud et l’orchestration de containers.",
+    "description": "Je travaille au quotidien sur la gestion et l’optimisation des infrastructures, tout en développant SumaOps, un dashboard open source pour le monitoring temps réel des clusters Kubernetes.",
+    "projectsBtn": "Voir mes projets",
+    "contactBtn": "Me contacter"
+  },
+ "about": {
+  "title": "À propos",
+  "downloadCv": "Télécharger mon CV 🇫🇷",
+  "paragraph1": "Je travaille actuellement en tant qu’administrateur système et DevOps chez Partech et Accenture.",
+  "paragraph2": "En parallèle, je développe des outils personnels comme passe-temps pour apprendre, tester, et sortir de ma zone de confort.",
+  "experienceTitle": "Expériences professionnelles",
+  "educationTitle": "Formation",
+  "experiences": [
+    {
+      "role": "DevOps & Linux System Administrator",
+      "company": "Partech S.p.A",
+      "period": "Mars 2024 - Aujourd’hui",
+      "description": "Administration Linux avancée, gestion de conteneurs Docker, orchestration Kubernetes, et Openshift."
+    },
+    {
+      "role": "DevOps & Linux System Administrator",
+      "company": "Accenture Italy",
+      "period": "Mai 2024 - Aujourd’hui",
+      "description": "Déploiement de workloads conteneurisés avec Kubernetes & Openshift, gestion de l'infrastructure à grande échelle."
+    },
+    {
+      "role": "Développeur Back-End",
+      "company": "Accenture Milanofiori",
+      "period": "Novembre 2021 - Novembre 2022",
+      "description": "Développement d’un moteur GDPR pour une grande entreprise multimédia."
+    },
+    {
+      "role": "Gestion Base de Données & Facturation",
+      "company": "Gioielleria Mame Cheikh Ibrahima Fall",
+      "period": "Avril 2023 - Janvier 2024",
+      "description": "Développement et gestion d’une base de données pour logiciel de bijouterie."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Licence en Informatique, Électronique et Télécommunications",
+      "school": "Université de Parme",
+      "period": "2017 - 2021",
+      "details": "Thèse : Algorithme du plus court chemin avec fenêtres temporelles (SPTW)."
+    },
+    {
+      "degree": "Baccalauréat Scientifique",
+      "school": "Lycée Seydina Limamou Laye",
+      "period": "2013 - 2016",
+      "details": "Dakar, Sénégal"
+    }
+  ]
+},
+  "contact": {
+    "title": "Me contacter",
+    "text": "Tu peux me joindre via les canaux suivants :"
+  },
+  "projects": {
+    "title": "Projets",
+    "sumaopsDescription": "Un dashboard léger pour surveiller des clusters Kubernetes en temps réel. Développé pour apprendre et partager.",
+    "viewOnGitHub": "Voir sur GitHub"
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  },
+  "certificationsTitle": "Certifications"
+
+
+
+
+}

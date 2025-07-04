@@ -1,0 +1,79 @@
+{
+  "home": {
+    "greeting": "👋 Hello, I’m Mouhamed Wade",
+    "title": "DevOps Engineer at Partech, passionate about cloud technologies and container orchestration.",
+    "description": "I work daily on infrastructure management and optimization, while developing SumaOps, an open source dashboard for real-time Kubernetes cluster monitoring.",
+    "projectsBtn": "View my projects",
+    "contactBtn": "Contact me"
+  },
+"about": {
+  "title": "About Me",
+  "downloadCv": "Download my CV 🇬🇧",
+  "paragraph1": "I'm currently working as a System Administrator and DevOps engineer at Partech and Accenture.",
+  "paragraph2": "In parallel, I build personal tools as a hobby to learn, experiment, and push beyond my comfort zone.",
+  "experienceTitle": "Professional Experience",
+  "educationTitle": "Education",
+  "experiences": [
+    {
+      "role": "DevOps & Linux System Administrator",
+      "company": "Partech S.p.A",
+      "period": "March 2024 – Present",
+      "description": "Advanced Linux system administration, Docker container management, Kubernetes and Openshift orchestration."
+    },
+    {
+      "role": "DevOps & Linux System Administrator",
+      "company": "Accenture Italy",
+      "period": "May 2024 – Present",
+      "description": "Deployment of containerized workloads with Kubernetes & Openshift, infrastructure at scale."
+    },
+    {
+      "role": "Back-End Developer",
+      "company": "Accenture Milanofiori",
+      "period": "November 2021 – November 2022",
+      "description": "Developed a GDPR engine for a large multimedia company."
+    },
+    {
+      "role": "Database & Billing Manager",
+      "company": "Gioielleria Mame Cheikh Ibrahima Fall",
+      "period": "April 2023 – January 2024",
+      "description": "Built and maintained a jewelry management database software."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor’s Degree in Computer, Electronic and Telecommunications Engineering",
+      "school": "University of Parma",
+      "period": "2017 – 2021",
+      "details": "Thesis: Shortest Path Problem with Time Windows (SPTW)."
+    },
+    {
+      "degree": "Scientific High School Diploma",
+      "school": "Lycée Seydina Limamou Laye",
+      "period": "2013 – 2016",
+      "details": "Dakar, Senegal"
+    }
+  ]
+},
+  "contact": {
+    "title": "Contact Me",
+    "text": "You can reach me through the following channels:"
+  },
+  "projects": {
+    "title": "Projects",
+    "sumaopsDescription": "A lightweight dashboard for real-time Kubernetes cluster monitoring. Built to learn and share.",
+    "viewOnGitHub": "View on GitHub"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "certificationsTitle": "Certifications"
+  
+
+
+}

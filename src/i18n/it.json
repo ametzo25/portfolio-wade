@@ -1,0 +1,77 @@
+{
+  "home": {
+    "greeting": "👋 Ciao, sono Mouhamed Wade",
+    "title": "Ingegnere DevOps presso Partech, appassionato di tecnologie cloud e orchestrazione di container.",
+    "description": "Lavoro quotidianamente sulla gestione e ottimizzazione delle infrastrutture, mentre sviluppo SumaOps, un cruscotto open source per il monitoraggio in tempo reale dei cluster Kubernetes.",
+    "projectsBtn": "Vedi i miei progetti",
+    "contactBtn": "Contattami"
+  },
+"about": {
+  "title": "Chi sono",
+  "downloadCv": "Scarica il mio CV 🇮🇹",
+  "paragraph1": "Attualmente lavoro come amministratore di sistema e DevOps presso Partech e Accenture.",
+  "paragraph2": "Nel tempo libero sviluppo strumenti personali per imparare, sperimentare e uscire dalla mia zona di comfort.",
+  "experienceTitle": "Esperienza professionale",
+  "educationTitle": "Formazione",
+  "experiences": [
+    {
+      "role": "DevOps & Amministratore di Sistema Linux",
+      "company": "Partech S.p.A",
+      "period": "Marzo 2024 – Presente",
+      "description": "Amministrazione avanzata di sistemi Linux, gestione di container Docker, orchestrazione con Kubernetes e Openshift."
+    },
+    {
+      "role": "DevOps & Amministratore di Sistema Linux",
+      "company": "Accenture Italia",
+      "period": "Maggio 2024 – Presente",
+      "description": "Distribuzione di workload containerizzati con Kubernetes & Openshift, gestione dell'infrastruttura su larga scala."
+    },
+    {
+      "role": "Sviluppatore Back-End",
+      "company": "Accenture Milanofiori",
+      "period": "Novembre 2021 – Novembre 2022",
+      "description": "Sviluppo di un motore GDPR per una grande azienda multimediale."
+    },
+    {
+      "role": "Gestione Database e Fatturazione",
+      "company": "Gioielleria Mame Cheikh Ibrahima Fall",
+      "period": "Aprile 2023 – Gennaio 2024",
+      "description": "Sviluppo e gestione di un database per software di gestione gioielleria."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Laurea in Ingegneria Informatica, Elettronica e delle Telecomunicazioni",
+      "school": "Università di Parma",
+      "period": "2017 – 2021",
+      "details": "Tesi: Problema del cammino più breve con finestre temporali (SPTW)."
+    },
+    {
+      "degree": "Diploma Scientifico",
+      "school": "Lycée Seydina Limamou Laye",
+      "period": "2013 – 2016",
+      "details": "Dakar, Senegal"
+    }
+  ]
+},
+  "contact": {
+    "title": "Contattami",
+    "text": "Puoi contattarmi tramite i seguenti canali:"
+  },
+  "projects": {
+    "title": "Progetti",
+    "sumaopsDescription": "Una dashboard leggera per monitorare cluster Kubernetes in tempo reale. Sviluppato per imparare e condividere.",
+    "viewOnGitHub": "Vedi su GitHub"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi sono",
+    "projects": "Progetti",
+    "contact": "Contatti"
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati."
+  },
+  "certificationsTitle": "Certificazioni"
+  
+}
